@@ -2,7 +2,8 @@
     "DLClist":[
         {
             "number":1,
-            "password":"1"
+            "password":"1",
+            "downloadlink":""
         }
     ]
 }
