@@ -4,6 +4,11 @@
             "number":1,
             "password":"1",
             "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/1/assets.zip"
+        },
+        {
+            "number":2,
+            "password":"114514",
+            "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/2/assets.zip"
         }
     ]
 }
