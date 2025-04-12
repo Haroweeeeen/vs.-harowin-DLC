@@ -2,21 +2,11 @@
     "DLClist":[
         {
             "number":1,
-            "password":"1",
-            "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/1/assets.zip"
-        },
-        {
-            "number":2,
             "password":"114514",
             "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/2/assets.zip"
         },
         {
-            "number":3,
-            "password":"1122",
-            "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/3/assets.zip"
-        },
-        {
-            "number":4,
+            "number":2,
             "password":"810",
             "downloadlink":"https://github.com/Haroweeeeen/vs.-harowin-DLC/raw/refs/heads/main/DLC/4/assets.zip"
         }
